@@ -33,4 +33,4 @@ module RailsActiverecordModelsAndRailsReadme
     config.active_record.raise_in_transactional_callbacks = true
     config.i18n.fallbacks = true
   end
-ends
+end
